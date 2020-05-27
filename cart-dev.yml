@@ -1,8 +1,6 @@
 server:
   port: 8082
 spring:
-  application:
-    name: cart
   rabbitmq:
     host: 106.14.17.227
     port: 5672
