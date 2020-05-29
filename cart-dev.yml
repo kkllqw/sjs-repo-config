@@ -6,4 +6,4 @@ spring:
     port: 5672
     username: root
     password: 123456
-env: dev3
+env: dev5
