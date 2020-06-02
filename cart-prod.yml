@@ -1,9 +1,1 @@
-server:
-  port: 9100
-spring:
-  rabbitmq:
-    host: 106.14.17.227
-    port: 5672
-    username: root
-    password: 123456
-env: prod
+
